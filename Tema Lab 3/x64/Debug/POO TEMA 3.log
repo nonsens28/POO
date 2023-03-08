@@ -1,0 +1,3 @@
+﻿  POO TEMA 3.cpp
+D:\Tools\Facultate\Visual Studio Community\Projects\POO TEMA 3\POO TEMA 3.cpp(437): warning C4715: 'Agenda::operator[]': not all control paths return a value
+  POO TEMA 3.vcxproj -> D:\Tools\Facultate\Visual Studio Community\Projects\POO TEMA 3\x64\Debug\POO TEMA 3.exe

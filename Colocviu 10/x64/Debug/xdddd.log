@@ -1,0 +1,5 @@
+﻿  xdddd.cpp
+C:\Users\Paul\Desktop\Facultate\C++\xdddd\xdddd.cpp(67,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paul\Desktop\Facultate\C++\xdddd\xdddd.cpp(149,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paul\Desktop\Facultate\C++\xdddd\xdddd.cpp(226): warning C4715: 'ReadCar': not all control paths return a value
+  xdddd.vcxproj -> C:\Users\Paul\Desktop\Facultate\C++\Colocviu\x64\Debug\xdddd.exe
